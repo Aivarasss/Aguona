@@ -1,0 +1,136 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+header{
+	width:100%;
+	height:80vh;
+	background-image: url(aguona2.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+	background-size: cover;
+	margin: 0px;
+	padding:1px;
+}
+h1{
+	text-align:center;
+	margin-top:250px;
+	font-size:60px;
+	font-family: 'Neonderthaw', cursive;
+	color:whitesmoke;
+}
+
+nav{
+	width:100%;
+	height:60px;
+	background-color:orange;
+}
+ul{
+	width:100%;
+	height:60px;
+	text-align:center;
+}
+li{	
+	width:150px;
+	height:60px;
+	display: inline-block;
+	border-radius: 40px;
+	box-shadow:5px 5px #FF8C00;
+	border:1px solid yellow;
+}
+a{
+	display:block;
+	width:150px;
+	height:60px;
+	text-decoration: none;
+	padding-top:20px;
+	color:#fff;
+	font-family: 'Neonderthaw', cursive;
+}
+li:hover {
+	background-color:#fff;
+}
+a:hover{
+	color:#FF8C00;
+}
+
+
+
+
+section{
+	width:80%;
+	height:auto;
+	margin:0 auto;
+	text-align:center; 
+}
+.kvadratas{
+	width:40%;
+	height:400px;
+	border:2px solid orange;
+	display:inline-block;
+	margin:20px;
+	border-radius:5px;
+	box-shadow:0 0 10px black;
+	font-family: 'Neonderthaw', cursive;
+}
+.apvalus{
+    width:150px;
+	height:150px;
+	border:4px solid #FF8C00;
+	border-radius: 50% 0 50% 0;
+	margin:0 auto;
+	background-repeat:repeat-x;
+	background-position: center;
+	background-size: cover;
+}
+h2{
+	text-align:center;
+	font-size:60px;
+	font-family: 'Neonderthaw', cursive;
+	color:#FF8C00;
+	
+}
+
+p{
+	font-family: 'Neonderthaw', cursive;
+	color:#FF8C00;
+	text-align:center;
+}
+.gele1{
+	background-image: url(gele1.png);
+}
+.gele2{
+	background-image: url(gele2.png);
+}
+.gele3{
+	background-image: url(gele3.png);
+}	
+.gele4{
+	background-image: url(gele4.png);
+}
+footer{
+	background-color:#FF8C00;
+	height:150px;
+	margin:0 auto;
+	text-align: center;
+}
+.juodas{
+	color:#FFF;
+	font-family: 'Neonderthaw', cursive;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
